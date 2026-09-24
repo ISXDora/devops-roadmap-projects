@@ -4,4 +4,4 @@
 
 | # | Project | Description |
 |---|---|---|
-| 01 | [SSH Remote Server Setup](./01-ssh-remote-server-setup/) | Remote server access with two SSH key pairs and aliases |
+| 01 | [SSH Remote Server Setup](./ssh-remote-server-setup/readme.md) | Remote server access with two SSH key pairs and aliases |
